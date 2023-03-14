@@ -6,3 +6,4 @@ shoeseini resolusi
 - membuat program sederhana
 - membuat program sophisticate
 - phytons
+    * angular
