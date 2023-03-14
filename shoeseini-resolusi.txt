@@ -4,3 +4,4 @@ shoeseini resolusi
 - membuat forum diskusi dengan MSB dan FH
 - belajar lebih banyak dengan expert
 - membuat program sederhana
+- membuat program sophisticate
