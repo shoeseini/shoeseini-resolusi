@@ -2,3 +2,5 @@ shoeseini resolusi
 - konsisten belajar coding setiap hari, minimal 2 jam
 - membuat platform untuk pengelolaan file belajar
 - membuat forum diskusi dengan MSB dan FH
+- membuat program bersama
+- belajar lebih banyak dengan expert
