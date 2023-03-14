@@ -5,5 +5,3 @@ shoeseini resolusi
 - belajar lebih banyak dengan expert
 - membuat program sederhana
 - membuat program sophisticate
-- phytons
-    * angular
